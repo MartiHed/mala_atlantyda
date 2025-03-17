@@ -36,7 +36,7 @@ class _LoginScreenState extends State<LoginScreen> {
         padding: const EdgeInsets.symmetric(horizontal: 25),
         child: Column(
           children: [
-            Image.asset('images/logoM_A.png', fit: BoxFit.cover, height: 300,),
+            Image.asset('images/logo.png', fit: BoxFit.cover, height: 300,),
             Text(
               "Wpisz hasło grupy",
               style: GoogleFonts.kanit(
